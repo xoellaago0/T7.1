@@ -58,6 +58,8 @@ flutter:
   uses-material-design: true
   assets:
     - assets/istockphoto-1495088043-612x612.jpg
+    - assets/fotoperfil.png
+    - assets/images.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
