@@ -46,6 +46,7 @@ app.*.map.json
 
 # Builds móviles
 /build/
+!/build/web/
 /android/
 /ios/
 .dart_tool/
