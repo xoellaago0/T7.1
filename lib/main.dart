@@ -51,9 +51,9 @@ class CVHomePage extends StatelessWidget {
             children: [
               BotonPerfil(
                   imagePath: [
-                    "/istockphoto-1495088043-612x612.jpg",
-                    "/fotoperfil.png",
-                    "/images.jpg"
+                    "assets/istockphoto-1495088043-612x612.jpg",
+                    "assets/fotoperfil.png",
+                    "assets/images.jpg"
                   ],
                   size: 100),
               Expanded(
