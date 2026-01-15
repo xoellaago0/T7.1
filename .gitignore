@@ -46,6 +46,6 @@ app.*.map.json
 
 # Builds móviles
 /build/
-android/
-ios/
+/android/
+/ios/
 
